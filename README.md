@@ -1,16 +1,18 @@
-## Hi there 👋
+### About Me
 
-<!--
-**lucamaronezii/lucamaronezii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with over a year of experience, focusing primarily on front-end development but also skilled in back-end technologies. I have a passion for intuitive design and organization in my projects, always striving to maintain best development practices
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working with TypeScript, React, and Git.
+- 🌱 I’m currently learning .NET 8 to enhance my backend skills.
+- 🎓 I'm in my final semester of Software Engineering at PUC PR.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's Connect!
+
+- 📫 How to reach me: steyerluca@gmail.com
+
+### Fun Facts
+
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring new design trends and incorporating them into my projects.
+
+Feel free to reach out if you want to collaborate or just have a chat about software development!
