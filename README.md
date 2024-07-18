@@ -10,7 +10,7 @@ I'm a software developer with over a year of experience, focusing primarily on f
 
 - 📫 How to reach me: steyerluca@gmail.com or +55 41 99961-3738
 
-### Fun Facts
+### Other facts
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new design trends and incorporating them into my projects.
