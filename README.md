@@ -8,7 +8,7 @@ I'm a software developer with over a year of experience, focusing primarily on f
 
 ### Let's Connect!
 
-- 📫 How to reach me: steyerluca@gmail.com
+- 📫 How to reach me: steyerluca@gmail.com or +55 41 99961-3738
 
 ### Fun Facts
 
