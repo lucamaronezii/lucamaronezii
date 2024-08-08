@@ -2,7 +2,7 @@
 
 I'm a software developer with over a year of experience, focusing primarily on front-end development but also skilled in back-end technologies. I have a passion for intuitive design and organization in my projects, always striving to maintain best development practices
 
-- 🔭 I’m currently working with TypeScript, React, and Git.
+- 🔭 I’m currently working with TypeScript and React.
 - 🌱 I’m currently learning .NET 8 to enhance my backend skills.
 - 🎓 I'm in my final semester of Software Engineering at PUC PR.
 
